@@ -202,5 +202,23 @@
     "dish_id": "dish_150",
     "action": "added_or_removed_from_cart",
     "timestamp": "2025-07-16T11:29:00.513745"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_008",
+    "action": "liked",
+    "timestamp": "2025-07-16T11:31:30.855390"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_059",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-16T11:31:37.968223"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_091",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-16T11:31:45.871895"
   }
 ]
