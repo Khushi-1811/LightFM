@@ -166,5 +166,41 @@
     "dish_id": "dish_059",
     "action": "added_or_removed_from_cart",
     "timestamp": "2025-07-16T09:38:25.205860"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_132",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-16T11:28:16.671999"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_056",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-16T11:28:24.767502"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_189",
+    "action": "menu_interest",
+    "timestamp": "2025-07-16T11:28:30.332272"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_011",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-16T11:28:49.479349"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_034",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-16T11:28:55.682761"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_150",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-16T11:29:00.513745"
   }
 ]
