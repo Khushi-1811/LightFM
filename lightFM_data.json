@@ -1,0 +1,1645 @@
+[
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_132",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-08T18:45:10Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Mobile",
+      "entry_point": "Menu",
+      "goal": "Balanced",
+      "price_sensitivity": 0.6,
+      "satiety_needed": "High",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_021",
+    "dish_id": "dish_056",
+    "action": "liked",
+    "timestamp": "2025-06-22T12:10:30Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Sunday",
+      "location": "Office",
+      "device": "Web",
+      "entry_point": "Search",
+      "goal": "High Protein",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_055",
+    "dish_id": "dish_189",
+    "action": "searched",
+    "timestamp": "2025-07-14T09:05:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "device": "Tablet",
+      "entry_point": "Search",
+      "price_sensitivity": 0.2
+    }
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_011",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-01T20:00:15Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Mobile",
+      "goal": "Balanced",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_099",
+    "dish_id": "dish_034",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-06-18T13:30:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Wednesday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "goal": "Low Carb",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_012",
+    "dish_id": "dish_150",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-10T19:25:45Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Thursday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "entry_point": "Menu",
+      "price_sensitivity": 0.8,
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_077",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-28T11:55:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Saturday",
+      "device": "Web",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_067",
+    "dish_id": "dish_112",
+    "action": "menu_interest",
+    "timestamp": "2025-07-05T22:05:12Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Saturday",
+      "location": "Home",
+      "device": "Tablet",
+      "entry_point": "Saved",
+      "goal": "Low Fat"
+    }
+  },
+  {
+    "user_id": "user_007",
+    "dish_id": "dish_002",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-25T08:30:50Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Wednesday",
+      "location": "Office",
+      "device": "Mobile",
+      "goal": "High Protein",
+      "price_sensitivity": 0.4
+    }
+  },
+  {
+    "user_id": "user_048",
+    "dish_id": "dish_199",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-15T13:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Web",
+      "entry_point": "Search",
+      "satiety_needed": "Low",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_021",
+    "dish_id": "dish_101",
+    "action": "searched",
+    "timestamp": "2025-07-02T14:20:18Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Wednesday",
+      "location": "Office",
+      "device": "Web",
+      "entry_point": "Search",
+      "goal": "Balanced",
+      "price_sensitivity": 0.5,
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_056",
+    "action": "liked",
+    "timestamp": "2025-06-20T21:15:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Friday",
+      "location": "Home",
+      "device": "Mobile",
+      "entry_point": "Menu",
+      "goal": "Low Fat",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_055",
+    "dish_id": "dish_112",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-11T12:45:30Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Friday",
+      "device": "Tablet",
+      "entry_point": "Notification",
+      "price_sensitivity": 0.9,
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_099",
+    "dish_id": "dish_150",
+    "action": "added_extra_items",
+    "timestamp": "2025-06-29T18:50:25Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Sunday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "goal": "High Protein",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_012",
+    "dish_id": "dish_034",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-07T13:10:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Monday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "entry_point": "Saved",
+      "goal": "Low Carb",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_189",
+    "action": "menu_interest",
+    "timestamp": "2025-07-03T10:20:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Thursday",
+      "device": "Web",
+      "entry_point": "Menu"
+    }
+  },
+  {
+    "user_id": "user_067",
+    "dish_id": "dish_002",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-24T19:00:40Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Tablet",
+      "price_sensitivity": 0.3,
+      "satiety_needed": "Low"
+    }
+  },
+  {
+    "user_id": "user_007",
+    "dish_id": "dish_077",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-13T09:40:15Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Sunday",
+      "location": "Office",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "goal": "Balanced",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_048",
+    "dish_id": "dish_132",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-26T14:50:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Thursday",
+      "location": "Home",
+      "device": "Web",
+      "goal": "High Protein",
+      "price_sensitivity": 0.7
+    }
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_199",
+    "action": "searched",
+    "timestamp": "2025-07-09T16:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Wednesday",
+      "location": "Home",
+      "device": "Mobile",
+      "entry_point": "Search",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_021",
+    "dish_id": "dish_011",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-06-30T12:30:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Monday",
+      "location": "Office",
+      "device": "Web",
+      "entry_point": "Menu",
+      "goal": "Low Carb",
+      "price_sensitivity": 0.1,
+      "satiety_needed": "Medium",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_055",
+    "dish_id": "dish_101",
+    "action": "liked",
+    "timestamp": "2025-07-06T20:45:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Sunday",
+      "device": "Tablet",
+      "entry_point": "Saved",
+      "goal": "Balanced",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_099",
+    "dish_id": "dish_002",
+    "action": "added_extra_items",
+    "timestamp": "2025-06-21T19:15:30Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Saturday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "goal": "High Protein",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_012",
+    "dish_id": "dish_112",
+    "action": "searched",
+    "timestamp": "2025-07-12T08:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Saturday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "entry_point": "Search",
+      "goal": "Low Fat",
+      "price_sensitivity": 0.5
+    }
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_150",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-06-27T13:40:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Friday",
+      "device": "Web",
+      "entry_point": "Menu",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_067",
+    "dish_id": "dish_034",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-04T12:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Friday",
+      "location": "Home",
+      "device": "Tablet",
+      "entry_point": "Notification",
+      "goal": "Low Carb",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_007",
+    "dish_id": "dish_189",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-19T11:25:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Thursday",
+      "location": "Office",
+      "device": "Mobile",
+      "price_sensitivity": 0.6,
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_048",
+    "dish_id": "dish_077",
+    "action": "menu_interest",
+    "timestamp": "2025-07-14T22:30:10Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Monday",
+      "location": "Home",
+      "device": "Web",
+      "entry_point": "Menu",
+      "goal": "Balanced"
+    }
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_132",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-23T09:10:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "location": "Home",
+      "device": "Mobile",
+      "goal": "High Protein",
+      "price_sensitivity": 0.8
+    }
+  },
+  {
+    "user_id": "user_021",
+    "dish_id": "dish_199",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-08T18:55:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Office",
+      "device": "Web",
+      "entry_point": "Search",
+      "satiety_needed": "High",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_001",
+    "dish_id": "dish_001",
+    "action": "liked",
+    "timestamp": "2025-07-16T10:30:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Wednesday",
+      "location": "Home",
+      "device": "Mobile",
+      "entry_point": "Menu",
+      "goal": "Balanced",
+      "price_sensitivity": 0.45,
+      "satiety_needed": "Medium",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_002",
+    "dish_id": "dish_003",
+    "action": "searched",
+    "timestamp": "2025-07-16T09:15:22Z",
+    "context": {
+      "time_of_day": "Morning",
+      "device": "Web",
+      "entry_point": "Search",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_003",
+    "dish_id": "dish_015",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-15T19:05:11Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Office",
+      "device": "Tablet",
+      "goal": "High Protein",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_004",
+    "dish_id": "dish_022",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-15T12:30:45Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Tuesday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "price_sensitivity": 0.88
+    }
+  },
+  {
+    "user_id": "user_005",
+    "dish_id": "dish_030",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-14T13:00:05Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Monday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "goal": "Low Carb"
+    }
+  },
+  {
+    "user_id": "user_001",
+    "dish_id": "dish_003",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-16T10:32:10Z",
+    "context": {
+      "device": "Mobile",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_006",
+    "dish_id": "dish_045",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-07-13T08:45:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Sunday",
+      "location": "Home",
+      "device": "Web",
+      "price_sensitivity": 0.3
+    }
+  },
+  {
+    "user_id": "user_007",
+    "dish_id": "dish_050",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-12T20:10:55Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Saturday",
+      "device": "Mobile",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_008",
+    "dish_id": "dish_060",
+    "action": "menu_interest",
+    "timestamp": "2025-07-11T22:00:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Friday",
+      "location": "Home",
+      "device": "Tablet",
+      "entry_point": "Saved",
+      "goal": "Low Fat"
+    }
+  },
+  {
+    "user_id": "user_009",
+    "dish_id": "dish_075",
+    "action": "liked",
+    "timestamp": "2025-07-10T15:20:18Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Thursday",
+      "location": "Office",
+      "device": "Web",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_010",
+    "dish_id": "dish_088",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-09T18:30:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Wednesday",
+      "location": "Home",
+      "device": "Mobile",
+      "entry_point": "Search",
+      "goal": "Balanced",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_011",
+    "dish_id": "dish_099",
+    "action": "searched",
+    "timestamp": "2025-07-08T11:40:50Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Tuesday",
+      "device": "Web",
+      "entry_point": "Search",
+      "goal": "High Protein",
+      "price_sensitivity": 0.95
+    }
+  },
+  {
+    "user_id": "user_013",
+    "dish_id": "dish_111",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-07T14:00:30Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Monday",
+      "location": "Gym Area",
+      "device": "Tablet",
+      "entry_point": "Menu",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_014",
+    "dish_id": "dish_123",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-06T12:55:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Sunday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "goal": "Low Carb",
+      "satiety_needed": "Low"
+    }
+  },
+  {
+    "user_id": "user_015",
+    "dish_id": "dish_135",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-05T19:40:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Saturday",
+      "location": "Home",
+      "device": "Web",
+      "goal": "Balanced"
+    }
+  },
+  {
+    "user_id": "user_016",
+    "dish_id": "dish_148",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-07-04T09:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Friday",
+      "device": "Mobile",
+      "price_sensitivity": 0.22,
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_017",
+    "dish_id": "dish_160",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-03T16:25:15Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Thursday",
+      "location": "Office",
+      "device": "Tablet"
+    }
+  },
+  {
+    "user_id": "user_018",
+    "dish_id": "dish_172",
+    "action": "menu_interest",
+    "timestamp": "2025-07-02T23:00:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Wednesday",
+      "entry_point": "Saved"
+    }
+  },
+  {
+    "user_id": "user_019",
+    "dish_id": "dish_184",
+    "action": "liked",
+    "timestamp": "2025-07-01T10:10:10Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Mobile",
+      "goal": "Low Fat",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_020",
+    "dish_id": "dish_196",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-06-30T20:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Monday",
+      "location": "Home",
+      "device": "Web"
+    }
+  },
+  {
+    "user_id": "user_022",
+    "dish_id": "dish_005",
+    "action": "searched",
+    "timestamp": "2025-06-29T13:12:34Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Sunday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Search",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_023",
+    "dish_id": "dish_018",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-06-28T17:45:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Saturday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "entry_point": "Menu",
+      "price_sensitivity": 0.75,
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_024",
+    "dish_id": "dish_028",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-06-27T12:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Friday",
+      "device": "Tablet",
+      "entry_point": "Notification",
+      "goal": "High Protein"
+    }
+  },
+  {
+    "user_id": "user_025",
+    "dish_id": "dish_038",
+    "action": "added_extra_items",
+    "timestamp": "2025-06-26T19:30:20Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Thursday",
+      "location": "Home",
+      "device": "Web",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_026",
+    "dish_id": "dish_048",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-25T08:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Wednesday",
+      "location": "Office",
+      "device": "Mobile",
+      "price_sensitivity": 0.15
+    }
+  },
+  {
+    "user_id": "user_027",
+    "dish_id": "dish_058",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-24T21:05:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Tuesday",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_028",
+    "dish_id": "dish_068",
+    "action": "menu_interest",
+    "timestamp": "2025-06-23T11:50:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "device": "Web",
+      "entry_point": "Menu",
+      "goal": "Balanced"
+    }
+  },
+  {
+    "user_id": "user_029",
+    "dish_id": "dish_078",
+    "action": "liked",
+    "timestamp": "2025-06-22T14:40:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Sunday",
+      "location": "Home",
+      "device": "Tablet",
+      "entry_point": "Saved",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_030",
+    "dish_id": "dish_090",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-06-21T18:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Saturday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_031",
+    "dish_id": "dish_104",
+    "action": "searched",
+    "timestamp": "2025-06-20T10:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Friday",
+      "device": "Web",
+      "entry_point": "Search",
+      "goal": "Low Carb",
+      "price_sensitivity": 0.65
+    }
+  },
+  {
+    "user_id": "user_032",
+    "dish_id": "dish_118",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-06-19T13:35:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Thursday",
+      "location": "Office",
+      "device": "Mobile"
+    }
+  },
+  {
+    "user_id": "user_034",
+    "dish_id": "dish_130",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-06-18T12:20:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Wednesday",
+      "entry_point": "Notification",
+      "goal": "Balanced"
+    }
+  },
+  {
+    "user_id": "user_035",
+    "dish_id": "dish_142",
+    "action": "added_extra_items",
+    "timestamp": "2025-06-17T19:50:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Web",
+      "satiety_needed": "Low"
+    }
+  },
+  {
+    "user_id": "user_036",
+    "dish_id": "dish_155",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-16T08:20:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "device": "Mobile",
+      "goal": "High Protein",
+      "price_sensitivity": 0.4
+    }
+  },
+  {
+    "user_id": "user_037",
+    "dish_id": "dish_168",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-15T22:15:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_038",
+    "dish_id": "dish_180",
+    "action": "menu_interest",
+    "timestamp": "2025-07-14T11:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "entry_point": "Menu",
+      "goal": "Low Fat"
+    }
+  },
+  {
+    "user_id": "user_039",
+    "dish_id": "dish_192",
+    "action": "liked",
+    "timestamp": "2025-07-13T16:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Sunday",
+      "device": "Tablet",
+      "entry_point": "Saved"
+    }
+  },
+  {
+    "user_id": "user_040",
+    "dish_id": "dish_004",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-12T18:45:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Saturday",
+      "location": "Office",
+      "device": "Web",
+      "goal": "Balanced",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_041",
+    "dish_id": "dish_012",
+    "action": "searched",
+    "timestamp": "2025-07-11T09:30:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Friday",
+      "device": "Mobile",
+      "entry_point": "Search",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_042",
+    "dish_id": "dish_025",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-10T14:15:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Thursday",
+      "location": "Home",
+      "device": "Tablet",
+      "price_sensitivity": 0.99
+    }
+  },
+  {
+    "user_id": "user_043",
+    "dish_id": "dish_035",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-09T12:40:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Wednesday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "goal": "Low Carb",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_044",
+    "dish_id": "dish_042",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-08T20:20:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "device": "Web"
+    }
+  },
+  {
+    "user_id": "user_045",
+    "dish_id": "dish_052",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-07-07T08:50:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "price_sensitivity": 0.05
+    }
+  },
+  {
+    "user_id": "user_046",
+    "dish_id": "dish_062",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-06T17:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Sunday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_047",
+    "dish_id": "dish_072",
+    "action": "menu_interest",
+    "timestamp": "2025-07-05T22:45:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Saturday",
+      "location": "Home",
+      "entry_point": "Menu"
+    }
+  },
+  {
+    "user_id": "user_049",
+    "dish_id": "dish_082",
+    "action": "liked",
+    "timestamp": "2025-07-04T15:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Friday",
+      "device": "Web",
+      "goal": "Balanced",
+      "satiety_needed": "Low"
+    }
+  },
+  {
+    "user_id": "user_050",
+    "dish_id": "dish_095",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-03T19:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Thursday",
+      "location": "Home",
+      "device": "Mobile",
+      "entry_point": "Saved",
+      "goal": "High Protein"
+    }
+  },
+  {
+    "user_id": "user_051",
+    "dish_id": "dish_108",
+    "action": "searched",
+    "timestamp": "2025-07-02T09:05:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Wednesday",
+      "device": "Tablet",
+      "entry_point": "Search"
+    }
+  },
+  {
+    "user_id": "user_052",
+    "dish_id": "dish_121",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-01T13:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Tuesday",
+      "location": "Office",
+      "device": "Web",
+      "price_sensitivity": 0.8
+    }
+  },
+  {
+    "user_id": "user_053",
+    "dish_id": "dish_133",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-06-30T12:10:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Monday",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_054",
+    "dish_id": "dish_145",
+    "action": "added_extra_items",
+    "timestamp": "2025-06-29T20:30:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Sunday",
+      "location": "Home",
+      "device": "Tablet",
+      "goal": "Low Carb",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_056",
+    "dish_id": "dish_158",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-28T07:30:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Saturday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "price_sensitivity": 0.25
+    }
+  },
+  {
+    "user_id": "user_057",
+    "dish_id": "dish_170",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-27T15:50:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Friday",
+      "device": "Web"
+    }
+  },
+  {
+    "user_id": "user_058",
+    "dish_id": "dish_182",
+    "action": "menu_interest",
+    "timestamp": "2025-06-26T23:30:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Thursday",
+      "entry_point": "Saved",
+      "goal": "Balanced"
+    }
+  },
+  {
+    "user_id": "user_059",
+    "dish_id": "dish_194",
+    "action": "liked",
+    "timestamp": "2025-06-25T10:45:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Wednesday",
+      "location": "Office",
+      "device": "Tablet"
+    }
+  },
+  {
+    "user_id": "user_060",
+    "dish_id": "dish_006",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-06-24T19:10:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Mobile",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_061",
+    "dish_id": "dish_016",
+    "action": "searched",
+    "timestamp": "2025-06-23T14:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Monday",
+      "entry_point": "Search",
+      "goal": "High Protein",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_062",
+    "dish_id": "dish_026",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-06-22T12:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Sunday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Menu",
+      "price_sensitivity": 0.68
+    }
+  },
+  {
+    "user_id": "user_063",
+    "dish_id": "dish_036",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-06-21T13:25:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Saturday",
+      "location": "Home",
+      "device": "Web",
+      "entry_point": "Notification",
+      "goal": "Low Fat"
+    }
+  },
+  {
+    "user_id": "user_064",
+    "dish_id": "dish_046",
+    "action": "added_extra_items",
+    "timestamp": "2025-06-20T18:40:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Friday",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_065",
+    "dish_id": "dish_056",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-19T09:15:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Thursday",
+      "price_sensitivity": 0.1,
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_066",
+    "dish_id": "dish_066",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-18T16:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Wednesday",
+      "location": "Office",
+      "device": "Tablet"
+    }
+  },
+  {
+    "user_id": "user_068",
+    "dish_id": "dish_076",
+    "action": "menu_interest",
+    "timestamp": "2025-06-17T21:40:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Tuesday",
+      "entry_point": "Menu"
+    }
+  },
+  {
+    "user_id": "user_069",
+    "dish_id": "dish_086",
+    "action": "liked",
+    "timestamp": "2025-06-16T11:30:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "device": "Mobile",
+      "goal": "Balanced",
+      "satiety_needed": "Low"
+    }
+  },
+  {
+    "user_id": "user_070",
+    "dish_id": "dish_096",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-15T19:20:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Tuesday",
+      "location": "Home",
+      "device": "Web",
+      "entry_point": "Search"
+    }
+  },
+  {
+    "user_id": "user_071",
+    "dish_id": "dish_106",
+    "action": "searched",
+    "timestamp": "2025-07-14T14:50:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Monday",
+      "entry_point": "Search",
+      "price_sensitivity": 0.55
+    }
+  },
+  {
+    "user_id": "user_072",
+    "dish_id": "dish_116",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-13T12:15:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Sunday",
+      "location": "Gym Area",
+      "device": "Mobile",
+      "goal": "High Protein"
+    }
+  },
+  {
+    "user_id": "user_073",
+    "dish_id": "dish_126",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-12T13:05:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Saturday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_074",
+    "dish_id": "dish_136",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-11T20:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Friday",
+      "location": "Home",
+      "device": "Web",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_075",
+    "dish_id": "dish_146",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-07-10T08:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Thursday",
+      "device": "Tablet",
+      "price_sensitivity": 0.35,
+      "goal": "Low Carb"
+    }
+  },
+  {
+    "user_id": "user_076",
+    "dish_id": "dish_156",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-09T17:20:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Wednesday",
+      "location": "Office",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_077",
+    "dish_id": "dish_166",
+    "action": "menu_interest",
+    "timestamp": "2025-07-08T22:00:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Tuesday",
+      "entry_point": "Saved",
+      "goal": "Low Fat"
+    }
+  },
+  {
+    "user_id": "user_078",
+    "dish_id": "dish_176",
+    "action": "liked",
+    "timestamp": "2025-07-07T10:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Monday",
+      "location": "Home",
+      "device": "Mobile",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_079",
+    "dish_id": "dish_186",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-06T18:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Sunday",
+      "location": "Home",
+      "device": "Web",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_080",
+    "dish_id": "dish_197",
+    "action": "searched",
+    "timestamp": "2025-07-05T09:45:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Saturday",
+      "entry_point": "Search",
+      "goal": "Balanced",
+      "price_sensitivity": 0.78
+    }
+  },
+  {
+    "user_id": "user_081",
+    "dish_id": "dish_008",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-04T13:50:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Friday",
+      "device": "Tablet",
+      "entry_point": "Menu"
+    }
+  },
+  {
+    "user_id": "user_082",
+    "dish_id": "dish_019",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-03T12:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Thursday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "goal": "High Protein"
+    }
+  },
+  {
+    "user_id": "user_083",
+    "dish_id": "dish_029",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-02T19:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Wednesday",
+      "satiety_needed": "Low"
+    }
+  },
+  {
+    "user_id": "user_085",
+    "dish_id": "dish_039",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-07-01T08:10:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Tuesday",
+      "location": "Office",
+      "device": "Mobile",
+      "price_sensitivity": 0.18
+    }
+  },
+  {
+    "user_id": "user_086",
+    "dish_id": "dish_049",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-30T21:00:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Monday",
+      "device": "Web",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_087",
+    "dish_id": "dish_059",
+    "action": "menu_interest",
+    "timestamp": "2025-06-29T11:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Sunday",
+      "entry_point": "Menu"
+    }
+  },
+  {
+    "user_id": "user_088",
+    "dish_id": "dish_069",
+    "action": "liked",
+    "timestamp": "2025-06-28T14:30:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Saturday",
+      "location": "Home",
+      "device": "Tablet",
+      "entry_point": "Saved",
+      "goal": "Balanced"
+    }
+  },
+  {
+    "user_id": "user_089",
+    "dish_id": "dish_079",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-06-27T18:20:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Friday",
+      "location": "Gym Area",
+      "device": "Mobile"
+    }
+  },
+  {
+    "user_id": "user_090",
+    "dish_id": "dish_089",
+    "action": "searched",
+    "timestamp": "2025-06-26T09:50:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Thursday",
+      "entry_point": "Search",
+      "price_sensitivity": 0.82
+    }
+  },
+  {
+    "user_id": "user_091",
+    "dish_id": "dish_091",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-06-25T13:20:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Wednesday",
+      "location": "Home",
+      "device": "Web",
+      "goal": "Low Carb",
+      "satiety_needed": "Medium"
+    }
+  },
+  {
+    "user_id": "user_092",
+    "dish_id": "dish_102",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-06-24T12:30:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Tuesday",
+      "device": "Mobile",
+      "entry_point": "Notification",
+      "goal": "High Protein"
+    }
+  },
+  {
+    "user_id": "user_093",
+    "dish_id": "dish_113",
+    "action": "added_extra_items",
+    "timestamp": "2025-06-23T19:45:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Monday",
+      "location": "Office",
+      "device": "Tablet"
+    }
+  },
+  {
+    "user_id": "user_094",
+    "dish_id": "dish_124",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-06-22T08:30:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Sunday",
+      "explore_mode": true
+    }
+  },
+  {
+    "user_id": "user_095",
+    "dish_id": "dish_134",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-06-21T15:00:00Z",
+    "context": {
+      "time_of_day": "Afternoon",
+      "day_of_week": "Saturday",
+      "device": "Web"
+    }
+  },
+  {
+    "user_id": "user_096",
+    "dish_id": "dish_144",
+    "action": "menu_interest",
+    "timestamp": "2025-06-20T22:20:00Z",
+    "context": {
+      "time_of_day": "Night",
+      "day_of_week": "Friday",
+      "location": "Home",
+      "entry_point": "Menu"
+    }
+  },
+  {
+    "user_id": "user_097",
+    "dish_id": "dish_154",
+    "action": "liked",
+    "timestamp": "2025-06-19T11:10:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Thursday",
+      "device": "Mobile",
+      "goal": "Low Fat",
+      "satiety_needed": "High"
+    }
+  },
+  {
+    "user_id": "user_098",
+    "dish_id": "dish_164",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-06-18T18:10:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Wednesday",
+      "location": "Outdoor",
+      "device": "Mobile",
+      "entry_point": "Saved",
+      "explore_mode": false
+    }
+  },
+  {
+    "user_id": "user_100",
+    "dish_id": "dish_174",
+    "action": "searched",
+    "timestamp": "2025-06-17T09:00:00Z",
+    "context": {
+      "time_of_day": "Morning",
+      "day_of_week": "Tuesday",
+      "device": "Web",
+      "entry_point": "Search",
+      "price_sensitivity": 0.5
+    }
+  },
+  {
+    "user_id": "user_001",
+    "dish_id": "dish_185",
+    "action": "liked",
+    "timestamp": "2025-07-15T10:00:00Z",
+    "context": {
+      "device": "Mobile",
+      "goal": "Balanced"
+    }
+  },
+  {
+    "user_id": "user_002",
+    "dish_id": "dish_195",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-14T20:00:00Z",
+    "context": {
+      "time_of_day": "Evening",
+      "day_of_week": "Monday"
+    }
+  }
+]

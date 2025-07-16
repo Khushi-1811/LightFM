@@ -1,0 +1,170 @@
+[
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_101",
+    "action": "menu_interest",
+    "timestamp": "2025-07-16T09:01:01.621972"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_056",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-16T09:01:07.645002"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_011",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-16T09:01:13.694825"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_199",
+    "action": "viewed_not_ordered",
+    "timestamp": "2025-07-16T09:01:18.576342"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_132",
+    "action": "liked",
+    "timestamp": "2025-07-16T09:01:22.025848"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_2",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-16T09:15:17.152413"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_2",
+    "action": "viewed_but_not_ordered",
+    "timestamp": "2025-07-16T09:16:14.279188"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_1",
+    "action": "add_to_cart",
+    "timestamp": "2025-07-16T09:16:31.877068"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_6",
+    "action": "add_to_cart",
+    "timestamp": "2025-07-16T09:16:31.892221"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_8",
+    "action": "add_to_cart",
+    "timestamp": "2025-07-16T09:16:31.919685"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_12",
+    "action": "ordered",
+    "timestamp": "2025-07-16T09:16:52.842838"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_9",
+    "action": "viewed_but_not_ordered",
+    "timestamp": "2025-07-16T09:17:31.249927"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_11",
+    "action": "removed_from_cart",
+    "timestamp": "2025-07-16T09:17:50.772478"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_14",
+    "action": "removed_from_cart",
+    "timestamp": "2025-07-16T09:17:50.830500"
+  },
+  {
+    "user_id": "user_1",
+    "dish_id": "dish_5",
+    "action": "removed_from_cart",
+    "timestamp": "2025-07-16T09:17:50.852492"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_056",
+    "action": "added_extra_items",
+    "timestamp": "2025-07-16T09:33:40.603832"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_132",
+    "action": "menu_interest",
+    "timestamp": "2025-07-16T09:33:44.183678"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_077",
+    "action": "searched",
+    "timestamp": "2025-07-16T09:33:51.671977"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_101",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-16T09:34:01.902799"
+  },
+  {
+    "user_id": "user_084",
+    "dish_id": "dish_142",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-16T09:34:17.239106"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_132",
+    "action": "searched",
+    "timestamp": "2025-07-16T09:34:55.625284"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_045",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-16T09:35:02.160991"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_088",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-16T09:35:08.049284"
+  },
+  {
+    "user_id": "user_033",
+    "dish_id": "dish_111",
+    "action": "downloaded_not_ordered",
+    "timestamp": "2025-07-16T09:35:16.570684"
+  },
+  {
+    "user_id": "user_012",
+    "dish_id": "dish_195",
+    "action": "downloaded_and_ordered",
+    "timestamp": "2025-07-16T09:37:54.365602"
+  },
+  {
+    "user_id": "user_012",
+    "dish_id": "dish_091",
+    "action": "menu_interest",
+    "timestamp": "2025-07-16T09:38:12.944240"
+  },
+  {
+    "user_id": "user_012",
+    "dish_id": "dish_079",
+    "action": "viewed_and_ordered",
+    "timestamp": "2025-07-16T09:38:19.956887"
+  },
+  {
+    "user_id": "user_012",
+    "dish_id": "dish_059",
+    "action": "added_or_removed_from_cart",
+    "timestamp": "2025-07-16T09:38:25.205860"
+  }
+]
